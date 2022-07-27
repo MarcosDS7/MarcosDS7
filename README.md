@@ -1,7 +1,7 @@
 <img src="computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador damasioCode">
 
 <p align="left"> 
-  Eai, meu nome é Marcos Souza. Sou <strong>Desenvolvedor Front-end e UI | UX Designer</strong>.<br>
+  Olá, meu nome é Marcos Souza. Sou <strong>Desenvolvedor Front-end e UI | UX Designer</strong>.<br>
 </p>
 
 <p align="left">
