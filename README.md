@@ -22,8 +22,10 @@
   
   <a href="https://www.linkedin.com/in/marcos-souza-814414195/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/damasiocode" /></a>
+  
+  <a href="./CV-MARCOS-2022.pdf" alt="Meu currículo">Currículo</a>
 
-</p>  
+</p>
 
 <p align="left" style="display: inline_block;"><br>
   <img style="margin-right: 10px;"  align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
