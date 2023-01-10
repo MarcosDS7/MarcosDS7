@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-  <a href="[https://www.instagram.com/m.souza.up/](https://www.instagram.com/o.marcos.varao.oficial/)" alt="Instagram">
+  <a href="https://www.instagram.com/o.marcos.varao.oficial/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/damasio.code/"/></a>
   
   <a href="https://www.linkedin.com/in/marcos-souza-814414195/" alt="Linkedin">
